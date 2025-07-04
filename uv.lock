@@ -233,6 +233,7 @@ dependencies = [
     { name = "pandas" },
     { name = "python-dotenv" },
     { name = "seaborn" },
+    { name = "tqdm" },
     { name = "transformers" },
 ]
 
@@ -252,6 +253,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.0" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
     { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "tqdm", specifier = ">=4.67.1" },
     { name = "transformers", specifier = ">=4.53.1" },
 ]
 

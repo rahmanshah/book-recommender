@@ -13,3 +13,4 @@ ipykernel
 ipywidgets
 numpy
 langchain_ollama
+tqdm
