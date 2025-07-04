@@ -12,3 +12,4 @@ gradio
 ipykernel
 ipywidgets
 numpy
+langchain_ollama
