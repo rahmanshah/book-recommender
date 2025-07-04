@@ -10,4 +10,4 @@ wheels/
 .venv
 .env
 
-db_books/*
+db_books
