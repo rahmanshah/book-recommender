@@ -14,3 +14,5 @@ ipywidgets
 numpy
 langchain_ollama
 tqdm
+torch
+hf_xet
