@@ -11,3 +11,4 @@ transformers
 gradio
 ipykernel
 ipywidgets
+numpy
